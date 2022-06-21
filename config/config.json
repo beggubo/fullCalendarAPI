@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "postgres",
-    "password": "ileana2020",
+    "password": "****",
     "database": "fullcalendar",
     "host": "127.0.0.1",
     "dialect": "postgres"
